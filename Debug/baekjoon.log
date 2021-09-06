@@ -1,2 +1,3 @@
-﻿  카드정렬하기.cpp
+﻿  뒤집기.cpp
+c:\users\12zzz\source\repos\baekjoon\baekjoon\뒤집기.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   baekjoon.vcxproj -> C:\Users\12zzz\Source\Repos\baekjoon\Debug\baekjoon.exe

@@ -18,12 +18,13 @@ int main() {
 		q.push(num);
 	}
 
-	while (!q.empty()) {
+	while (!q.empty() && n > 1) {
 
 		int x = q.top(); q.pop();
 		int y = q.top(); q.pop();
 		int z = x + y;
 		ans += z;
+
 		if (!q.empty()) {
 			q.push(z);
 		}

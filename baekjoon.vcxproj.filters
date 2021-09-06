@@ -45,5 +45,14 @@
     <ClCompile Include="카드정렬하기.cpp">
       <Filter>리소스 파일\greedy</Filter>
     </ClCompile>
+    <ClCompile Include="캠핑.cpp">
+      <Filter>리소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="잃어버린괄호.cpp">
+      <Filter>리소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="뒤집기.cpp">
+      <Filter>리소스 파일\greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
